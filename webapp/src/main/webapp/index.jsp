@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to GSK DevOps Course</h1>
-    <p>Please fill in this form to enroll in the course!! </p>
+    <p>Please fill the form to register in the course:) </p>
     <hr>
     <br>
 
